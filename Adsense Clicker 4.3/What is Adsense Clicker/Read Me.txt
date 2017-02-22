@@ -1,0 +1,59 @@
+This message is about Adsense Clicker 4.0(2008-2013),
+
+First of all let me tell you about Adsense,
+How do they(Adsense) track weather the ads are clicked by real humans or automated engines?
+
+For that they track many attributes of user's PC. That list includes Screen resolution, font size, browser attributes, random delays .. and many more.
+
+And specially they track the traffic of the website. This is really important. Adsense records all the traffic information of the website.
+Specially they record "what are traffic sources". From these methods Adsense make sure that all the clicks made on the ads are real.
+
+What is Adsense Clicker ?
+This is an automated engine with 100% human behavior for Adsense Ads clicking.
+How does this provide human behavior?
+This engine changes all it's attributes per every visit. That makes sure that it's completely undetectable by Adsense. To achieve that it changes the web browser, browser version(more than 3300 listed in the software), downloaded date of the web browser, user settings of the web browser, plugging in the browser, screen resolution, font size, number of clicks made on the web site, number of clicks made on the Ad website, time spent on the web site, time spent on the Ad website ... per each visit. Along with these, it uses 2 timing algorithms to provide random delays and that provides 100% human behavior.
+
+This software system mainly uses 3 ways to provide genuine traffic.
+
+1.Direct visit
+Adsense Clicker will visit your site your website directly with new IPs and Ports.
+
+2.Visit via search engines
+Adsense Clicker will visit your site using the search results of all the major search engines(Google,Yahoo and Bing). (It will type your website's name with new attributes and proxies in the search engines and visit the site using search results. So the referral of the traffic is the selected search engine.)
+
+3.Visit via referral sites
+You can enter unlimited number of referral sites to this software. So it will visit your referral site first with new attributes and proxies. Then it will find your website on that referral site and will click on it.
+
+After visiting the website it will work according to the settings(Number of clicks, time delays...).
+You can use all of these methods at once on the same website. You can set percentages and change all the settings per each website.
+Ex
+Direct visit:5%
+Visit via search engines: 80%
+Visit via referral sites:15%
+
+What's new in Adsense Clicker 4.0?
+We have added some special features on this version as bonus.
+-New version is 5 times faster than the version 3.0(We never had any complaints about the speed of version 3.0. Because it was really fast. But we decided to increase that speed. So the outcome of this product is doubled.)
+-We also added a keyword filtering system. It can check for specific
+keywords in the search. So you can easily double your CRC rate.
+-Version 4.0 comes with a "Proxy finder". You can download proxies from 5 different sources and check their connectivity. You can also sort the downloaded proxies according to the Port,speed and country.
+Using this method you can provide traffic from any part of the world!
+
+You can use this software 24.7 and target traffic from many PCs.
+
+YOU CAN USE THIS SOFTWARE SYSTEM AS AN ADSENSE ADS CLICKING ENGINE OR AS A TRAFFIC INCREASER.
+
+We know that it's bit hard to understand this complicated system. So please add us on 'S K Y P E' so we can show you how it works in real time. And all of your questions will be answered.
+
+S K Y P E:
+akhilinfass
+
+Please feel free to contact us at anytime.(24/7 online support is always provided.)
+Prize of this software is just 900$
+
+
+Regards,
+Managing Director(AkhilaPraveen.com),
+Solution Infinity.
+
+PS: PLEASE CHECK THE ATTACHED PDF IN PORTFOLIO TO GET A CLEAR IDEA!
